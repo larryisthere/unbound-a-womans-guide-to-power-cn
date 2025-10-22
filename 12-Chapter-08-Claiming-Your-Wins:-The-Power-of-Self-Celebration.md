@@ -154,8 +154,6 @@ The antidote to this is a dose of self-celebration. In a culture where women are
 >
 > 当你在身体中锚定一个胜利时，你会重新定位自己，朝向阳光；你会重新承诺成为那个根据自己愿望走向命运的人。自我夸耀和炫耀得足够多，你就会创造一个反馈循环：你越是自我庆祝，就会发现更多值得庆祝的事情。你会注意到自己做了什么有效的事情，并且在身体中记住这种感觉。
 
----
-
 #### Celebrate Yourself—and Each Other
 
 #### 庆祝自己——以及彼此
