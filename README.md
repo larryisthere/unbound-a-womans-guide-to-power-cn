@@ -31,7 +31,7 @@
 |12|第八章：[为自己喝彩](https://github.com/larryisthere/unbound-a-womans-guide-to-power-cn/blob/main/12-Chapter-08-Claiming-Your-Wins%3A-The-Power-of-Self-Celebration.md)|@larryisthere |✅|✅|⏳|
 |13|第九章：A BRAND-NEW GAME||⏳|⏳|⏳|
 |14|第十章：THE LOVE BEHIND THE STOP SIGN||⏳|⏳|⏳|
-|15|第十一章：不可抗拒的邀请|@larryisthere |✅|✅|⏳|
+|15|第十一章：[不可抗拒的邀请](https://github.com/larryisthere/unbound-a-womans-guide-to-power-cn/blob/main/15-Chapter-11-THE-IRRESISTIBLE-INVITATION-Elements-of-a-Powerful-Ask.md)|@larryisthere |✅|✅|⏳|
 |16|第十二章：EMBRACE FRICTION||⏳|⏳|⏳|
 |17|第十三章：TURNING THE SPOTLIGHT||⏳|⏳|⏳|
 |18|第十四章：CUTTING THROUGH THE FOG||⏳|⏳|⏳|
