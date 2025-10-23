@@ -8,47 +8,47 @@
 ### 前置内容
 | 序号 | 章节          | 负责人           | AI翻译  | 人工翻译 | 交叉校对 |
 |---|:-------------|:-------------:|:-----:|:-----:|:-----:|
-|00|版权||⏳|⏳|⏳|
-|01|献辞||⏳|⏳|⏳|
-|02|卷首语||⏳|⏳|⏳|
-|03|目录||⏳|⏳|⏳|
-|04|介绍||⏳|⏳|⏳|
+|00|版权||❌|❌|❌|
+|01|献辞||❌|❌|❌|
+|02|卷首语||❌|❌|❌|
+|03|目录||❌|❌|❌|
+|04|介绍||❌|❌|❌|
 
 ### 第一部分：IT’S NOT YOU - Revealing the Invisible Bind
 | 序号 | 章节          | 负责人           | AI翻译  | 人工翻译 | 交叉校对 |
 |---|:------------- |:-------------:|:-----:|:-----:|:-----:|
-|05|第一章：THE CONVERSATION UNDER THE CONVERSATION||⏳|⏳|⏳|
-|06|第二章：DOMINATION AND SUBMISSION||⏳|⏳|⏳|
-|07|第三章：THE GOOD GIRL DOUBLE-BIND||⏳|⏳|⏳|
-|08|第四章：EMBODIMENT||⏳|⏳|⏳|
+|05|第一章：THE CONVERSATION UNDER THE CONVERSATION||❌|❌|❌|
+|06|第二章：DOMINATION AND SUBMISSION||❌|❌|❌|
+|07|第三章：THE GOOD GIRL DOUBLE-BIND||❌|❌|❌|
+|08|第四章：EMBODIMENT||❌|❌|❌|
 
 ### 第二部分：BREAKING THE BIND - A Training Manual for the Revolution
 | 序号 | 章节          | 负责人           | AI翻译  | 人工翻译 | 交叉校对 |
 |---|:------------- |:-------------:|:-----:|:-----:|:-----:|
-|09|第五章：YOUR HUNGER KNOWS||⏳|⏳|⏳|
-|10|第六章：EMOTIONAL ALCHEMY||⏳|⏳|⏳|
-|11|第七章：SOLID AS A ROCK||⏳|⏳|⏳|
-|12|第八章：[为自己喝彩](https://github.com/larryisthere/unbound-a-womans-guide-to-power-cn/blob/main/12-Chapter-08-Claiming-Your-Wins%3A-The-Power-of-Self-Celebration.md)|@larryisthere |✅|✅|⏳|
-|13|第九章：A BRAND-NEW GAME||⏳|⏳|⏳|
-|14|第十章：THE LOVE BEHIND THE STOP SIGN||⏳|⏳|⏳|
-|15|第十一章：[不可抗拒的邀请](https://github.com/larryisthere/unbound-a-womans-guide-to-power-cn/blob/main/15-Chapter-11-THE-IRRESISTIBLE-INVITATION-Elements-of-a-Powerful-Ask.md)|@larryisthere |✅|✅|⏳|
-|16|第十二章：EMBRACE FRICTION||⏳|⏳|⏳|
-|17|第十三章：TURNING THE SPOTLIGHT||⏳|⏳|⏳|
-|18|第十四章：CUTTING THROUGH THE FOG||⏳|⏳|⏳|
-|19|第十五章：WHISPER OR SHOUT?||⏳|⏳|⏳|
-|20|第十六章：LET THEM LIGHT YOU UP!||⏳|⏳|⏳|
+|09|第五章：YOUR HUNGER KNOWS||❌|❌|❌|
+|10|第六章：EMOTIONAL ALCHEMY||❌|❌|❌|
+|11|第七章：SOLID AS A ROCK||❌|❌|❌|
+|12|第八章：[为自己喝彩](https://github.com/larryisthere/unbound-a-womans-guide-to-power-cn/blob/main/12-Chapter-08-Claiming-Your-Wins%3A-The-Power-of-Self-Celebration.md)|@larryisthere|✅|✅|⏳|
+|13|第九章：A BRAND-NEW GAME||❌|❌|❌|
+|14|第十章：THE LOVE BEHIND THE STOP SIGN||❌|❌|❌|
+|15|第十一章：[不可抗拒的邀请](https://github.com/larryisthere/unbound-a-womans-guide-to-power-cn/blob/main/15-Chapter-11-THE-IRRESISTIBLE-INVITATION-Elements-of-a-Powerful-Ask.md)|@larryisthere|✅|✅|⏳|
+|16|第十二章：EMBRACE FRICTION||❌|❌|❌|
+|17|第十三章：TURNING THE SPOTLIGHT||❌|❌|❌|
+|18|第十四章：CUTTING THROUGH THE FOG||❌|❌|❌|
+|19|第十五章：WHISPER OR SHOUT?||❌|❌|❌|
+|20|第十六章：LET THEM LIGHT YOU UP!||❌|❌|❌|
 
-### 结论：THE POWER TO BIRTH A NEW WORLD
+### CONCLUSION：THE POWER TO BIRTH A NEW WORLD | 结语：创造新世界的力量
 | 序号 | 章节          | 负责人           | AI翻译  | 人工翻译 | 交叉校对 |
 |---|:------------- |:-------------:|:-----:|:-----:|:-----:|
-|21|THE POWER TO BIRTH A NEW WORLD||⏳|⏳|⏳|
+|21|[结语：创造新世界的力量](https://github.com/larryisthere/unbound-a-womans-guide-to-power-cn/blob/main/21-Conclusion-THE-POWER-TO-BIRTH-A-NEW-WORLD.md)|@larryisthere|✅|⏳|❌|
 
 ### 结尾内容
 | 序号 | 章节          | 负责人           | AI翻译  | 人工翻译 | 交叉校对 |
 |---|:-------------|:-------------:|:-----:|:-----:|:-----:|
-|22|附录||⏳|⏳|⏳|
-|23|致谢||⏳|⏳|⏳|
-|24|关于作者||⏳|⏳|⏳|
+|22|[附录](https://github.com/larryisthere/unbound-a-womans-guide-to-power-cn/blob/main/22-Appendix.md)|@larryisthere|✅|⏳|❌|
+|23|致谢||❌|❌|❌|
+|24|关于作者||❌|❌|❌|
 
 #### 状态说明：
 ✅ 已完成 
