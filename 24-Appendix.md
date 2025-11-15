@@ -1,6 +1,7 @@
 # Appendix | 附录
 
 #### Joining or Starting a Mistress Group | 加入或创建女主人小组
+
 Academy graduates run Mistress groups in cities around the world. Our website, www.weteachpower.com, has lists of Mistress groups that are accepting new Mistresses in your area.
 
 学院毕业生在世界各地的城市运营女主人小组。我们的网站 www.weteachpower.com 上有你所在地区接受新女主人加入的小组名单。
@@ -61,6 +62,7 @@ Here's a general protocol for Mistress groups.
 以下是女主人小组的一般协议。
 
 #### CHECK-INS | 签到
+
 "Right now I'm feeling ___________ ."
 
 "现在我感觉___________。"
@@ -105,15 +107,16 @@ These exercises work well done in pairs: Things Unsaid, Bad Girl Protocol, Askin
 
 这些练习适合两人配对进行：未曾言说之事（Things Unsaid）、坏女孩准则（Bad Girl Protocol）、要求练习（Asking Practice）。
 
-(See Things Unsaid on \h  for an example of how an exercise might work in partnership.) For worksheets with instructions for the other exercises (and additional ones not covered in the book), check out our website.
+(See Things Unsaid on this page for an example of how an exercise might work in partnership.) For worksheets with instructions for the other exercises (and additional ones not covered in the book), check out our website.
 
-（参见第\h页的未曾言说之事，了解练习如何在合作中进行的示例。）有关其他练习（以及书中未涵盖的额外练习）的说明工作表，请查看我们的网站。
+（参见该页的未曾言说之事（Things Unsaid），了解练习如何在合作中进行的示例。）有关其他练习（以及书中未涵盖的额外练习）的说明工作表，请查看我们的网站。
 
 Have everyone pair off. If choosing who starts first is awkward, come up with a universal rule, like "The person with the longest hair goes first!"
 
 让每个人都配对。如果选择谁先开始很尴尬，可以制定一个通用规则，比如"头发最长的人先开始！"
 
 #### General Rules for Partnered Exercises | 配对练习的一般规则
+
 Both partners have to take a turn.
 
 两个伙伴都必须轮流进行。
@@ -150,6 +153,7 @@ For the person who is being framed, frames are a way to anchor what she felt. Fo
 Some examples, from Mistress Alia's pirate party:
 
 一些例子，来自女主人阿莉娅的海盗派对：
+
 "I frame all of us running down a dark suburban street; I haven't felt that free—that bad—since high school."
 
 "我框定我们所有人跑下黑暗的郊区街道；自从高中以来，我从未感到如此自由——如此叛逆。"

@@ -28,9 +28,13 @@ The direction of our attention—the conversation under the conversation—is a 
 
 我们注意力的方向——对话之下的对话——就是生命力的方向。注意力让事物成长，你现在就是一个活力晴雨表。你不仅能听到"不"，还能听到对方用"不"字所坦白的亲密邀请。你会用自己内心的活力去触碰别人内心的活力。这会带来一种新的对话——一种完全体现的、意义深远的、影响力强大的对话。
 
-### Conversation is what made the rules, and it's what will change them.
+---
 
-### 对话创造了规则，对话也会改变规则。
+Conversation is what made the rules, and it's what will change them.
+
+对话创造了规则，对话也会改变规则。
+
+---
 
 The new desires, ideas, and directions that come out of these new kinds of conversations are wonderfully unpredictable. They question and test the reality that we've created. These conversations lead to new visions, new actions—and new conversations, ensuring that the cycle toward life and light continues. And they are transformative, because these conversations unearth the truth of what we all deeply want and need.
 

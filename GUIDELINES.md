@@ -88,15 +88,51 @@ My student Sasha tells me that she's stuck—scattered, disorganized, always lat
 
 ### 1.3 特殊内容格式 | Special Content Format
 
-#### 标语和强调内容
-```
-### Conversation is what made the rules, and it's what will change them.
+#### 标语和强调内容 | Mottos and Emphasized Content
 
-### 对话创造了规则，对话也会改变规则。
+**推荐格式（使用分隔线）**：
+```
+---
+
+Conversation is what made the rules, and it's what will change them.
+
+对话创造了规则，对话也会改变规则。
+
+---
+```
+
+**备选格式（使用引用）**：
+```
+> Conversation is what made the rules, and it's what will change them.
+
+> 对话创造了规则，对话也会改变规则。
+```
+
+**格式说明**：
+- 使用分隔线（`---`）包裹强调内容，视觉上更突出
+- 或使用引用格式（`>`），保持简洁
+- 避免使用 H3 标题，以免与其他小节标题混淆
+- 强调的词汇使用粗体（`**文本**`）
+
+**示例（带强调词汇）**：
+```
+---
+
+Power isn't a feeling. Power is **influence**, which means it must take place in a dynamic.
+
+权力不是一种感觉。权力是**影响力**，这意味着它必须在动态中发生。
+
+---
 ```
 
 #### 常见错误
-- ❌ 错误：标语格式不规范
+- ❌ 错误：使用 H3 标题（可能与其他小节标题混淆）
+  ```
+  ### Conversation is what made the rules, and it's what will change them.
+  
+  ### 对话创造了规则，对话也会改变规则。
+  ```
+- ❌ 错误：缺少视觉区分
   ```
   Conversation is what made the rules, and it's what will change them.
   
@@ -189,35 +225,127 @@ My student Sasha tells me that she's stuck—scattered, disorganized, always lat
   - ✅ 正确："太好了——该玩游戏了。"
   - ❌ 错误："他妈的，是的——是时候玩了。"
 
+### 2.3 心理学文本的特殊处理 | Special Handling for Psychological Texts
+
+#### 情感表达的层次化处理
+- **原则**：区分直接情感表达、隐喻情感表达、象征情感表达
+- **处理方式**：
+  - **直接情感表达**：准确传达情感强度
+  - **隐喻情感表达**：保持隐喻的生动性，避免过度直白
+  - **象征情感表达**：保持象征意义，必要时提供解释
+- **示例**：
+  - 原文："She's fireproofed against no"
+  - ✅ 正确（保持隐喻的生动性）："她对'不'字免疫"
+  - ❌ 错误（过于直白）："她能够抵抗拒绝"
+  - ❌ 错误（过于学术化）："她建立了对拒绝的防御机制"
+
+#### 心理状态的细微差别
+- **原则**：心理学文本中的情感词汇需要精确对应，不能简单替换
+- **处理方式**：建立情感词汇的精确对应体系
+- **示例**：
+  - ✅ 正确：
+    - "rage" → "愤怒"（强烈、爆发性的）
+    - "anger" → "生气"（一般性的）
+    - "frustration" → "挫败感"（受阻的感觉）
+  - ❌ 错误：全部翻译为"愤怒"或"生气"
+
+#### 隐喻和象征的处理
+- **原则**：优先保持原文的隐喻结构，如果中文有对应隐喻则使用，否则进行文化适应
+- **处理方式**：
+  - 中文有对应隐喻：直接使用
+  - 中文无对应隐喻：进行文化适应，保持隐喻效果
+- **示例**：
+  - 原文："Wolf in sheep's clothing"
+  - ✅ 正确（使用中文对应隐喻）："披着羊皮的狼"
+  - ❌ 错误（直译）："穿着羊皮的狼"
+  - ❌ 错误（解释性翻译）："伪装成善良的恶人"
+
 ---
 
 ## 3. 专业术语处理 | Professional Terminology Handling
 
-### 3.1 术语统一 | Terminology Consistency
+### 3.1 概念层次体系 | Hierarchical Concept System
 
 **重要说明**：所有专业术语的翻译标准请参考 `TERMS.md` 文档，该文档包含完整的术语对照表和使用说明。
+
+#### 概念层次分类
+术语按照重要性和使用频率分为四个层次：
+
+**第一层：核心理论概念（Core Theoretical Concepts）**
+- **要求**：需要严格统一，首次出现时必须有详细解释
+- **示例**：Ask, Congruence, Good Girl conditioning, Power dynamics
+- **处理方式**：
+  - 首次出现：提供完整解释（英文原文 + 中文翻译 + 概念定义 + 在本书中的特殊含义）
+  - 后续出现：保持统一翻译
+
+**第二层：重要实践概念（Important Practical Concepts）**
+- **要求**：需要统一，但允许在特定语境下微调
+- **示例**：Attention in/out, Legitimacy, Self-celebration
+- **处理方式**：
+  - 首次出现：提供简短解释（英文原文 + 中文翻译）
+  - 后续出现：保持统一翻译，可根据语境微调
+
+**第三层：一般术语（General Terms）**
+- **要求**：保持一致性，但允许根据语境灵活处理
+- **示例**：Resistance, Negotiation, Influence
+- **处理方式**：
+  - 保持基本一致性
+  - 可根据语境选择最合适的表达
+
+**第四层：语境词汇（Contextual Vocabulary）**
+- **要求**：根据语境自然翻译，无需严格统一
+- **示例**：feeling, emotion, experience
+- **处理方式**：
+  - 根据语境自然翻译
+  - 无需建立统一对照表
+
+#### 核心概念首次出现的完整解释模板
+```
+✅ 正确格式：
+"[中文翻译]（[英文原文]）。[概念定义，1-2句话]。
+在本书中，[在本书中的特殊含义或应用]。"
+
+示例：
+"要求（Ask）。在本书中，'要求'不是简单的请求，
+而是一种主动表达需求、建立边界、影响他人的能力。
+它强调的不是被动等待，而是主动创造机会。"
+```
+
+### 3.2 术语统一 | Terminology Consistency
 
 #### 术语使用原则
 - **一致性**：相同术语在全书中必须使用统一翻译
 - **准确性**：术语翻译必须准确传达原文含义
 - **可读性**：术语翻译应符合中文表达习惯
+- **层次性**：根据概念层次采用不同的处理策略
 
 #### 示例
 - ✅ 正确：严格按照 `TERMS.md` 使用术语
-  - "Ask" → "要求"（全书统一）
-  - "Congruence" → "一致性"（全书统一）
+  - "Ask" → "要求"（全书统一，核心概念）
+  - "Congruence" → "一致性"（全书统一，核心概念）
+  - "Resistance" → "阻力"（一般术语，可根据语境微调）
 - ❌ 错误：术语使用不一致
-  - 有时使用"要求"，有时使用"请求"
-  - 有时使用"一致性"，有时使用"协调性"
+  - 有时使用"要求"，有时使用"请求"（核心概念必须统一）
+  - 有时使用"一致性"，有时使用"协调性"（核心概念必须统一）
 
-### 3.2 术语解释 | Terminology Explanation
+### 3.3 术语解释 | Terminology Explanation
 
-#### 首次出现时
-- 在术语后添加简短解释
-- 使用括号或破折号说明
+#### 首次出现时的处理
+根据概念层次采用不同的解释方式：
+
+**核心理论概念**：必须提供完整解释
+- **格式**：中文翻译（英文原文）+ 概念定义 + 在本书中的特殊含义
+- **示例**：
+  - ✅ 正确："要求（Ask）。在本书中，'要求'不是简单的请求，而是一种主动表达需求、建立边界、影响他人的能力。"
+  - ❌ 错误："她进行了要求"（缺少解释）
+
+**重要实践概念**：提供简短解释
+- **格式**：中文翻译（英文原文）
 - **示例**：
   - ✅ 正确："她进行了正当性练习（Legitimacy exercise）"
   - ❌ 错误："她进行了正当性练习"（缺少英文对照）
+
+**一般术语**：根据语境自然翻译，无需特别解释
 
 #### 建立术语表
 - 维护完整的术语对照表（详见 `TERMS.md`）
@@ -280,9 +408,146 @@ My student Sasha tells me that she's stuck—scattered, disorganized, always lat
 
 ---
 
-## 5. 质量控制 | Quality Control
+## 5. BDSM术语和文化背景的翻译处理 | Translation Handling of BDSM Terminology and Cultural Context
 
-### 5.1 翻译检查清单 | Translation Checklist
+### 5.1 核心原则 | Core Principles
+
+#### 平衡专业性和可读性
+- **原则**：既要准确传达BDSM文化的专业含义，又要让普通读者能够理解
+- **策略**：使用渐进式解释，先给出通用理解，再提供专业背景
+
+#### 尊重文化敏感性
+- **原则**：避免污名化或过度色情化，保持专业和尊重的态度
+- **策略**：强调BDSM作为权力动态和心理探索的工具性，而非单纯的性实践
+
+### 5.2 核心术语的翻译策略 | Translation Strategies for Core Terms
+
+#### Domme / Dominatrix（女支配者）
+- **翻译策略**：
+  - ✅ 正确（首次出现时）："女支配者（Domme）。在BDSM文化中，这是指在权力关系中处于主导地位的女性。在本书中，这个概念被用来描述一种心理状态和沟通方式，而不仅仅是性角色。女支配者通过明确的边界、清晰的沟通和自信的表达来建立影响力。"
+  - ✅ 正确（后续出现时）："女支配者" 或 "支配者"
+  - ❌ 错误（污名化）："女主人"、"女王"（过于色情化）
+  - ❌ 错误（过度简化）："主导者"（失去BDSM文化的特殊含义）
+
+#### Sub / Submissive（被支配者）
+- **翻译策略**：
+  - ✅ 正确（首次出现时）："被支配者（Sub）。在BDSM文化中，这是指在权力关系中处于顺从地位的个体。在本书中，这个概念被用来描述一种向内关注、深度连接的心理状态。被支配者通过倾听、感受和表达真实需求来建立影响力。"
+  - ✅ 正确（后续出现时）："被支配者" 或 "顺从者"
+  - ❌ 错误（污名化）："奴隶"、"宠物"（过于色情化，且不准确）
+  - ❌ 错误（过度简化）："顺从的人"（失去心理状态的深度）
+
+#### Power Dynamics（权力动态）
+- **翻译策略**：
+  - ✅ 正确（在BDSM语境中）："权力动态。这个概念源于BDSM文化，指人际关系中权力的流动和变化。在本书中，它被扩展为一种理解所有关系的框架，不仅仅是性关系。权力动态关注的是影响力的流动，而非静态的权力结构。"
+  - ❌ 错误（忽略BDSM背景）："权力关系"（失去动态性和BDSM文化的特殊含义）
+
+#### Dungeon（密室）
+- **翻译策略**：
+  - ✅ 正确："密室（dungeon）。在BDSM文化中，这是指进行权力游戏和探索的安全空间。在本书中，作者用这个词来指代她作为女支配者工作的专业场所，强调这是一个有边界、有规则、有安全措施的空间。"
+  - ❌ 错误（过度色情化）："地牢"（带有负面和色情化联想）
+  - ❌ 错误（过度简化）："工作室"（失去BDSM文化的特殊含义）
+
+#### Play / Playing（游戏/玩耍）
+- **翻译策略**：
+  - ✅ 正确："游戏（play）。在BDSM文化中，'游戏'指有意识、有边界、有规则的角色扮演和权力探索。在本书中，这个概念被用来描述一种轻松、有创造性的沟通方式。'游戏'强调的不是严肃的权力斗争，而是有意识的角色转换和探索。"
+  - ❌ 错误（过度简化）："玩耍"（失去BDSM文化的专业含义）
+  - ❌ 错误（过度严肃）："实践"（失去游戏的轻松和创造性）
+
+### 5.3 Dom/Sub心理的准确传达 | Accurate Transmission of Dom/Sub Psychology
+
+#### Dom心理的核心特征
+- **内在状态**：自信、明确、有边界感
+- **外在表现**：清晰的沟通、坚定的立场、向外关注
+- **翻译原则**：避免将Dom心理简化为"强势"或"控制欲"
+
+#### Sub心理的核心特征
+- **内在状态**：深度连接、向内关注、真实表达
+- **外在表现**：倾听、感受、表达需求
+- **翻译原则**：避免将Sub心理简化为"软弱"或"被动"
+
+#### 具体操作指南
+- **原文**："A submissive Ask might be a very good way for Sari to present this idea to her boss"
+- ✅ 正确（准确传达Sub心理）："被支配者的要求可能是莎莉向老板呈现这个想法的一个非常好的方式——通过向内关注、深度连接自己的渴望，然后真诚地表达出来。这种方式不是软弱，而是通过真实和连接来建立影响力。"
+- ❌ 错误（误解Sub心理）："顺从的要求可能是莎莉向老板呈现这个想法的一个非常好的方式"（缺少对Sub心理状态的解释）
+
+### 5.4 向普通读者解释BDSM概念 | Explaining BDSM Concepts to General Readers
+
+#### 渐进式解释策略
+1. **第一步**：给出通用理解（让读者能够理解基本含义）
+2. **第二步**：提供BDSM文化背景（让读者了解专业含义）
+3. **第三步**：解释在本书中的特殊应用（让读者理解如何应用到日常生活中）
+
+#### 具体操作指南
+- **原文**："From my work in the dungeon, I learned all the ways that imagination can heal us"
+- ✅ 正确（渐进式解释）："从我在密室的工作中，我学到了想象力能够治愈我们并帮助我们发现深层情感真相的所有方式。（注：密室是BDSM文化中的专业工作空间，强调安全、边界和规则。作者在这里用这个概念来说明，有意识、有边界地探索权力动态，可以帮助我们理解自己的需求和建立更健康的关系。）"
+- ❌ 错误（直接翻译，无解释）："从我在密室的工作中，我学到了想象力能够治愈我们并帮助我们发现深层情感真相的所有方式。"（普通读者可能不理解"密室"在这里的特殊含义）
+
+### 5.5 避免污名化和色情化 | Avoiding Stigmatization and Over-Sexualization
+
+#### 原则
+- **强调工具性**：BDSM是探索权力动态和心理状态的工具，而非单纯的性实践
+- **保持专业性**：使用专业、尊重的语言，避免色情化表达
+- **突出心理层面**：强调心理状态和沟通方式，而非性行为
+
+#### 具体操作指南
+- **原文**："In playing games with power, I learned to differentiate between real authority and a performance of it."
+- ✅ 正确（强调心理层面）："在玩力量游戏时，我学会了区分真正的权威和对其的表演。这里的'游戏'不是指轻浮的玩耍，而是指有意识、有边界地探索权力动态。通过这种探索，我学会了识别什么是真正的内在力量，什么是表面的表演。"
+- ❌ 错误（过度色情化）："在性游戏中，我学会了区分真正的权威和对其的表演"（过度强调性层面，忽略了心理探索的意义）
+- ❌ 错误（污名化）："在变态游戏中，我学会了区分真正的权威和对其的表演"（使用污名化语言）
+
+### 5.6 BDSM术语检查清单 | BDSM Terminology Checklist
+
+#### 翻译检查
+- [ ] 核心术语是否提供了渐进式解释？
+- [ ] 是否避免了污名化和色情化？
+- [ ] 是否强调了心理层面而非性层面？
+- [ ] 是否准确传达了Dom/Sub心理状态？
+- [ ] 普通读者是否能够理解？
+
+#### 文化敏感性检查
+- [ ] 是否保持了专业和尊重的态度？
+- [ ] 是否强调了BDSM作为工具的价值？
+- [ ] 是否避免了刻板印象和偏见？
+- [ ] 是否考虑了中文读者的文化背景？
+
+---
+
+## 6. 质量控制 | Quality Control
+
+### 6.1 翻译决策流程 | Translation Decision Process
+
+#### 翻译决策流程图
+```
+遇到翻译问题
+    ↓
+是核心概念吗？
+    ↓ 是
+参考 TERMS.md，严格统一，首次出现时提供完整解释
+    ↓ 否
+是术语吗？
+    ↓ 是
+参考 TERMS.md，保持一致性
+    ↓ 否
+是BDSM相关术语吗？
+    ↓ 是
+使用渐进式解释，避免污名化和色情化
+    ↓ 否
+判断语境类型
+    ↓
+选择相应的翻译策略
+    ↓
+检查是否符合指南原则
+    ↓
+完成翻译
+```
+
+#### 语境判断标准
+- **正式理论语境**：使用更正式、准确的术语
+- **非正式语境**：可以使用更自然、口语化的表达
+- **情感语境**：优先考虑情感表达的准确性
+- **理论语境**：优先考虑概念的准确性
+
+### 6.2 翻译检查清单 | Translation Checklist
 
 #### 格式检查
 - [ ] 标题层级正确
@@ -291,18 +556,27 @@ My student Sasha tells me that she's stuck—scattered, disorganized, always lat
 - [ ] 标点符号使用恰当
 
 #### 内容检查
-- [ ] 术语翻译一致
+- [ ] 术语翻译一致（核心概念严格统一）
 - [ ] 语言自然流畅
 - [ ] 含义准确传达
 - [ ] 语气保持原样
+- [ ] 心理学文本的情感表达准确
+- [ ] BDSM术语处理恰当（如适用）
 
 #### 风格检查
 - [ ] 符合平实易懂原则
 - [ ] 避免拗口表达
 - [ ] 句式结构合理
 - [ ] 文化适应恰当
+- [ ] 隐喻和象征处理得当
 
-### 5.2 常见错误避免 | Common Mistakes to Avoid
+#### 深度检查（针对核心概念）
+- [ ] 核心概念是否提供了完整解释？
+- [ ] 概念深度是否准确传达？
+- [ ] 心理学/哲学概念是否准确？
+- [ ] BDSM概念是否避免了污名化？（如适用）
+
+### 6.3 常见错误避免 | Common Mistakes to Avoid
 
 #### 格式错误
 - ❌ 修改英文原文
@@ -322,9 +596,9 @@ My student Sasha tells me that she's stuck—scattered, disorganized, always lat
 
 ---
 
-## 6. 特殊内容处理 | Special Content Handling
+## 7. 特殊内容处理 | Special Content Handling
 
-### 6.1 引用和注脚 | Quotes and Footnotes
+### 7.1 引用和注脚 | Quotes and Footnotes
 
 #### 引用格式
 ```
@@ -338,19 +612,147 @@ My student Sasha tells me that she's stuck—scattered, disorganized, always lat
 注：解释内容（来源：具体来源）
 ```
 
-### 6.2 练习和技巧 | Exercises and Techniques
+### 7.2 练习和技巧 | Exercises and Techniques
 
-#### 练习标题
+#### 练习框格式 | Exercise Box Format
+
+**标准格式**：
 ```
-#### Exercise Name | 练习名称
+---
+
+#### EXERCISE | 练习
+
+##### The Bad Girl Protocol | 坏女孩准则
+
+This exercise is a playground where you get to do whatever the fuck you want to do.
+
+这个练习是一个游乐场，你可以在这里做任何你想做的事情。
+
+Meet your inner Bad Girl.
+
+认识你内心的坏女孩。
+
+On a sheet of paper, copy the following prompt:
+
+在一张纸上，抄写以下提示：
+
+**IF I WERE A BAD GIRL, I WOULD ___________.**
+
+**如果我是个坏女孩，我会 ___________。**
+
+---
 ```
 
-#### 练习内容
+**格式说明**：
+- 使用分隔线（`---`）包裹整个练习框，视觉上清晰区分
+- "EXERCISE" 使用 H4（`####`），双语对照
+- **练习名称使用 H5（`#####`），双语对照（必须包含，不能省略）**
+- 练习内容按正常段落格式，双语对照
+- 特殊强调使用粗体（`**文本**`）
 - 保持原文的步骤结构
 - 使用清晰的指令语言
 - 确保可操作性
 
-### 6.3 案例和故事 | Cases and Stories
+**重要规则**：
+- **所有练习框必须包含练习名称**，不能只有 "EXERCISE" 标识而没有名称
+- 练习名称应简洁明了，准确反映练习内容
+- 如果原文中没有明确的练习名称，应根据练习内容自行添加合适的名称
+
+#### 常见错误
+- ❌ 错误：缺少 "EXERCISE" 标识
+  ```
+  #### The Bad Girl Protocol | 坏女孩准则
+  ```
+- ❌ 错误：缺少分隔线，视觉上不够突出
+  ```
+  #### EXERCISE | 练习
+  ##### The Bad Girl Protocol | 坏女孩准则
+  ```
+- ❌ 错误：格式不统一
+  ```
+  ### EXERCISE: The Bad Girl Protocol | 练习：坏女孩准则
+  ```
+- ❌ 错误：缺少练习名称（必须包含）
+  ```
+  ---
+  
+  #### EXERCISE | 练习
+  
+  Think of all the things you do that are outside the scope of your actual paid work...
+  
+  想想你做的所有超出你实际有薪工作范围的事情...
+  
+  ---
+  ```
+  **正确格式**：必须添加练习名称
+  ```
+  ---
+  
+  #### EXERCISE | 练习
+  
+  ##### Invisible Labor | 隐形劳动
+  
+  Think of all the things you do that are outside the scope of your actual paid work...
+  
+  想想你做的所有超出你实际有薪工作范围的事情...
+  
+  ---
+  ```
+- ❌ 错误：练习名称使用错误的标题级别（应使用 H5，不是 H3）
+  ```
+  ---
+  
+  #### EXERCISE | 练习
+  
+  ### The Bad Girl Protocol | 坏女孩准则
+  
+  ---
+  ```
+  **正确格式**：练习名称应使用 H5（`#####`）
+  ```
+  ---
+  
+  #### EXERCISE | 练习
+  
+  ##### The Bad Girl Protocol | 坏女孩准则
+  
+  ---
+  ```
+
+### 7.3 列表格式 | List Format
+
+#### 标准列表格式
+使用标准 Markdown 列表格式，双语对照：
+
+```
+- "I'd hold an *American Idol*–style televised audition for sperm donors. They'd have to wear swimsuits, sing, and do a striptease to prove their DNA is the best. America decides."
+
+  "我会举办一场《美国偶像》式的电视选秀，为精子捐赠者。他们必须穿泳装、唱歌、跳脱衣舞来证明他们的 DNA 是最好的。由美国决定。"
+
+- "I'd keep a harem in my basement, make them scour my house while I'm at work—and then take turns giving me oral sex for hours on the clean sheets. In this Bad Girl's house, sexual gratification goes only one way."
+
+  "我会在地下室养一个后宫，让他们在我工作时打扫我的房子——然后在干净的床单上轮流给我口交几个小时。在这个坏女孩的房子里，性满足只有一种方式。"
+```
+
+**格式说明**：
+- 使用标准 Markdown 列表（`-` 或 `*`）
+- 列表项中的英文和中文在同一项内
+- 中文翻译缩进（2个空格），与英文区分
+- 保持列表项之间的适当间距
+
+#### 常见错误
+- ❌ 错误：中英文分开为不同列表项
+  ```
+  - "I'd hold an *American Idol*–style televised audition..."
+  - "我会举办一场《美国偶像》式的电视选秀..."
+  ```
+- ❌ 错误：中文翻译未缩进
+  ```
+  - "I'd hold an *American Idol*–style televised audition..."
+  "我会举办一场《美国偶像》式的电视选秀..."
+  ```
+
+### 7.4 案例和故事 | Cases and Stories
 
 #### 人物对话
 - 保持原文的语气
@@ -364,9 +766,9 @@ My student Sasha tells me that she's stuck—scattered, disorganized, always lat
 
 ---
 
-## 7. 更新和维护 | Updates and Maintenance
+## 8. 更新和维护 | Updates and Maintenance
 
-### 7.1 文档更新 | Document Updates
+### 8.1 文档更新 | Document Updates
 
 #### 更新原则
 - 根据翻译实践不断完善
@@ -379,7 +781,7 @@ My student Sasha tells me that she's stuck—scattered, disorganized, always lat
 3. 更新文档内容
 4. 通知所有相关人员
 
-### 7.2 反馈机制 | Feedback Mechanism
+### 8.2 反馈机制 | Feedback Mechanism
 
 #### 反馈收集
 - 定期收集翻译人员的反馈
@@ -393,9 +795,9 @@ My student Sasha tells me that she's stuck—scattered, disorganized, always lat
 
 ---
 
-## 8. 附录 | Appendix
+## 9. 附录 | Appendix
 
-### 8.1 术语对照表 | Terminology Reference
+### 9.1 术语对照表 | Terminology Reference
 
 **重要**：所有术语翻译标准请参考 `TERMS.md` 文档，该文档包含：
 - 核心概念术语
@@ -405,7 +807,7 @@ My student Sasha tells me that she's stuck—scattered, disorganized, always lat
 - 其他专业术语
 - 术语使用说明和示例
 
-### 8.2 参考资源 | Reference Resources
+### 9.2 参考资源 | Reference Resources
 
 #### 翻译工具
 - 术语管理工具
@@ -420,5 +822,17 @@ My student Sasha tells me that she's stuck—scattered, disorganized, always lat
 ---
 
 **最后更新日期**：2024年12月
-**版本**：1.0
+**版本**：2.1
 **维护人员**：翻译团队
+**更新说明**：
+- **v2.0**：
+  - 新增概念层次体系（3.1）
+  - 新增心理学文本的特殊处理（2.3）
+  - 新增BDSM术语和文化背景的翻译处理（第5章）
+  - 新增翻译决策流程（6.1）
+  - 完善多层次质量控制体系（6.2）
+- **v2.1**（格式规范更新）：
+  - 更新强调内容格式：从 H3 改为分隔线或引用格式（1.3）
+  - 完善练习框格式规范：添加完整的格式标准和示例（7.2）
+  - 新增列表格式说明：标准 Markdown 列表的双语对照格式（7.3）
+  - 基于原书 EPUB 格式分析优化格式规范

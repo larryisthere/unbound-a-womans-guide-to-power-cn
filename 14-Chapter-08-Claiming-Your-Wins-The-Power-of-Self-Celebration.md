@@ -50,9 +50,13 @@ Focusing on the triumphant 97 percent does exactly the opposite; it cements your
 
 然而，关注那97%的胜利会带来截然不同的结果：它能让你更加意识到自己有能力实现梦想。自我庆祝能够强化这一意识——传达一个关键信息：你能信任自己的愿望，也能相信自己有能力为自己创造美好未来。
 
-### Self-celebration dispels shame. It helps you trust that you are good.
+---
 
-### 自我庆祝能够缓解羞愧感，使你更加确信自己的优秀。
+Self-celebration dispels shame. It helps you trust that you are good.
+
+自我庆祝能够缓解羞愧感，使你更加确信自己的优秀。
+
+---
 
 I'm not kidding: I think female self-celebration is the cure for the patriarchy. But it's not always easy to see what this has to do with power—in fact, it's the step that the women who come to me looking for shortcuts are most likely to skip. But when you build your library of wins, you strengthen your attunement to your inner signal and reinforce what that win felt like for you, in your body—which changes how you choose in the future.
 
@@ -186,9 +190,13 @@ But your Mistress group can become an important site for self-celebration. Read 
 
 你的女主人小组可以成为一个重要的自我庆祝场所。互相读出你的胜利日志。（这可以成为一个美妙的开场仪式。）或者像我的许多学生一样，创建一个WhatsApp小组，大家在里面发布自己的庆祝。当你听到别人庆祝自己时，加入派对。重复你听到她们说的话，告诉她们听到一个女人宣称自己做了很酷的事情让你感觉多么好。告诉她们你看到了什么。
 
-### The only difference between envy and inspiration is connection.
+---
 
-### 嫉妒与灵感之间的唯一区别就是连接。
+The only difference between envy and inspiration is connection.
+
+嫉妒与灵感之间的唯一区别就是连接。
+
+---
 
 By honoring yourself in the presence of other women, you're teaching other women to honor themselves in yours.
 

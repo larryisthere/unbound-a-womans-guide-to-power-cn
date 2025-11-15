@@ -86,6 +86,7 @@
 | Patriarchal conditioning | 父权制模式 | 父权社会对女性的塑造 |
 | Gender dynamics | 性别动态 | 性别关系中的权力动态 |
 | Power dynamics | 权力动态 | 人际关系中的权力关系 |
+| Médecins Sans Frontières / Doctors Without Borders | 无国界医生组织 | 国际人道主义医疗组织 |
 
 ## 身体和感官 | Body and Sensation
 
@@ -110,6 +111,8 @@
 
 | 英文人名 | 中文音译 | 说明 |
 |---------|---------|------|
+| Kasia Urbaniak | 卡西亚·乌尔班尼亚克 | 本书作者 |
+| Ruben Flores | 鲁本·弗洛雷斯 | 学院共同创始人 |
 | Mistress Alia | 女主人阿莉娅 | 女主人小组的成员 |
 | Kim | 金姆 | 女主人小组的成员 |
 

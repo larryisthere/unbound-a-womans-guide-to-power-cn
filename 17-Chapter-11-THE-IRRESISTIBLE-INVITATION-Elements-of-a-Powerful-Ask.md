@@ -276,9 +276,13 @@ The whole room knows when she has truly achieved the state of attention she is a
 
 整个房间都知道她是否真正达到了她所追求的注意力状态，无论是向外还是向内。虽然我在这里将其框定在我的学院课程的背景下，但我知道即使你从未参加过课程，你也经历过这种现象。也许你在教堂、会议室或会场里感受过。在去音乐会的路上，你甚至不确定自己是否想去——但当歌手唱出第一个高音时，你已经站起来，和体育场里的其他人一起跳舞、歇斯底里地尖叫。可以肯定的是，这种清晰易懂是无法否认的。
 
-### When a state of attention is completely occupied and a person communicates their truth from that place, every body feels it land.
+---
 
-### 当一个人完全占据某种注意力状态并从那个地方展现真实的自己时，每个人都能感受到它。
+When a state of attention is completely occupied and a person communicates their truth from that place, every body feels it land.
+
+当一个人完全占据某种注意力状态并从那个地方展现真实的自己时，每个人都能感受到它。
+
+---
 
 When a woman rehearsing her Ask has embodied both extremes and touched her fears—even the ones that don't want to be seen—she makes her Ask again. When she speaks, she places her attention on the male volunteer, and we will watch the impact of every word she says as it lands in his body. She might as well be quoting scripture, or speaking a spell, because the room is riveted: we witness the power of her attention filling him with so much beautiful energy that he cannot help but say yes.
 
