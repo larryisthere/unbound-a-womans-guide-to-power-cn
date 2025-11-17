@@ -58,3 +58,68 @@
 ❌ 未开始
 
 **完成标准：** 只有当 AI 翻译、人工翻译、交叉校对三个状态都标记为 ✅ 时，该章节才算正式完成。
+
+---
+
+## 贡献指南 | Contributing
+
+欢迎社区贡献！你可以通过以下方式参与：
+
+### 🔍 如何贡献
+
+- **错误报告** - 发现翻译错误或格式问题
+- **翻译改进** - 提供更优的翻译建议
+- **章节翻译** - 参与未完成章节的翻译
+- **校对审阅** - 帮助校对已翻译章节
+
+### 📋 贡献步骤
+
+1. Fork 本仓库
+2. 创建特性分支 (`git checkout -b feature/your-contribution`)
+3. 提交更改 (`git commit -m 'Add: your contribution'`)
+4. 推送到分支 (`git push origin feature/your-contribution`)
+5. 创建 Pull Request
+
+**注意**：提交前请确保：
+- 遵循 `GUIDELINES.md` 中的格式规范
+- 使用 `TERMS.md` 中的术语标准
+- 保持双语对照格式
+
+---
+
+## 📄 版权信息 | Copyright
+
+### 📖 原书版权
+
+- **作者**: [Kasia Urbaniak](https://www.kasiaurbaniak.com/)
+- **出版社**: TarcherPerigee (an imprint of Penguin Random House LLC)
+- **版权**: 原书版权归作者和出版社所有
+- **原书链接**: [Amazon](https://www.amazon.com/Unbound-Womans-Guide-Kasia-Urbaniak/dp/0593084527)
+
+### 🌏 翻译版权
+
+- **翻译**: 本翻译项目基于 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 协议开源
+- **目的**: 仅用于学习交流，促进中文社区发展
+- **使用限制**:
+  - ✅ **允许**：自由复制、分发、展示和演绎作品（需署名译者）
+  - ❌ **禁止**：任何形式的商业使用
+- **商业合作**：如需商业使用，请联系译者和原书版权方
+
+---
+
+## ⭐ 支持项目 | Support the Project
+
+如果这个项目对你有帮助，请考虑：
+
+- 🌟 给项目加 Star
+- 🍴 Fork 并参与贡献
+- 📢 分享给更多需要的人
+- 💝 支持原书作者的工作
+
+---
+
+## 📚 相关资源 | Resources
+
+- **翻译指南**: 查看 [GUIDELINES.md](GUIDELINES.md) 了解翻译规范
+- **术语表**: 查看 [TERMS.md](TERMS.md) 了解术语翻译标准
+- **原书官网**: [The Academy](https://www.kasiaurbaniak.com/)
