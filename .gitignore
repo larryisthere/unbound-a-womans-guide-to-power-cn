@@ -1,0 +1,27 @@
+# 过程讨论文档 - 不提交到仓库
+EPUB-FORMAT-COMPARISON.md
+FORMAT-ANALYSIS.md
+FORMAT-REVIEW-REPORT.md
+FORMAT-TEMPLATE.md
+GUIDELINES-IMPROVEMENTS.md
+PROOFREADING-REPORT.md
+
+# 临时脚本文件
+*.py
+extract_*.py
+create_*.py
+
+# 临时文件
+*.tmp
+*.bak
+*~
+
+# macOS 系统文件
+.DS_Store
+
+# 编辑器文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
