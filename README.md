@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Book Cover](https://images-na.ssl-images-amazon.com/images/I/81Y5Z5Z5Z5L._AC_UL600_SR600,600_.jpg)](https://www.amazon.com/Unbound-Womans-Guide-Kasia-Urbaniak/dp/0593084527)
+[![Book Cover](https://github.com/larryisthere/unbound-a-womans-guide-to-power-cn/raw/main/images/cover.jpg)](https://www.amazon.com/Unbound-Womans-Guide-Kasia-Urbaniak/dp/0593084527)
 
 [![CC BY-NC 4.0](https://camo.githubusercontent.com/2bc4e666f8b443d92da95ad43dcfb1b4ebed4ea52bb62fc219b00e76b3aa8635/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d434325323042592d2d4e43253230342e302d6c69676874677265792e737667)](https://creativecommons.org/licenses/by-nc/4.0/)
 [![GitHub stars](https://img.shields.io/github/stars/larryisthere/unbound-a-womans-guide-to-power-cn.svg?style=social&label=Star)](https://github.com/larryisthere/unbound-a-womans-guide-to-power-cn)
