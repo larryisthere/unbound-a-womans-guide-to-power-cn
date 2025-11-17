@@ -1,8 +1,30 @@
 # Unbound | 挣脱束缚
-## A Woman's Guide to Power
+## A Woman's Guide to Power | 女性权力指南
+
 [![CC BY-NC 4.0](https://camo.githubusercontent.com/2bc4e666f8b443d92da95ad43dcfb1b4ebed4ea52bb62fc219b00e76b3aa8635/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6963656e73652d434325323042592d2d4e43253230342e302d6c69676874677265792e737667)](https://creativecommons.org/licenses/by-nc/4.0/)
-#### 原书作者 (Author): [Kasia Urbaniak](https://www.kasiaurbaniak.com/)
-#### 原书链接 (Original Book): [Amazon](https://www.amazon.com/Unbound-Womans-Guide-Kasia-Urbaniak/dp/0593084527)
+[![GitHub stars](https://img.shields.io/github/stars/larryisthere/unbound-a-womans-guide-to-power-cn.svg?style=social&label=Star)](https://github.com/larryisthere/unbound-a-womans-guide-to-power-cn)
+[![GitHub forks](https://img.shields.io/github/forks/larryisthere/unbound-a-womans-guide-to-power-cn.svg?style=social&label=Fork)](https://github.com/larryisthere/unbound-a-womans-guide-to-power-cn/fork)
+
+**原书作者 (Author)**: [Kasia Urbaniak](https://www.kasiaurbaniak.com/)  
+**原书链接 (Original Book)**: [Amazon](https://www.amazon.com/Unbound-Womans-Guide-Kasia-Urbaniak/dp/0593084527)
+
+---
+
+## 📖 项目简介 | Project Description
+
+本项目是对 Kasia Urbaniak 所著《Unbound: A Woman's Guide to Power》的中英文对照翻译。该书是一部关于女性权力和影响力的实践指南，通过独特的视角和实用的工具，帮助女性理解并掌握权力动态，在关系、职场和生活中建立更强大的影响力。
+
+This project is a bilingual Chinese-English translation of "Unbound: A Woman's Guide to Power" by Kasia Urbaniak. The book is a practical guide to power and influence for women, offering unique perspectives and practical tools to help women understand and master power dynamics, building stronger influence in relationships, workplaces, and life.
+
+## 🎯 项目特色 | Key Features
+
+- 📚 **中英文对照** - 完整的双语对照翻译，便于学习和理解
+- 🎨 **格式规范** - 严格遵循 Markdown 标准和翻译规范（详见 [GUIDELINES.md](GUIDELINES.md)）
+- 📝 **术语统一** - 建立完整的术语对照表，确保翻译一致性（详见 [TERMS.md](TERMS.md)）
+- ✅ **进度透明** - 实时更新翻译进度，清晰标注每个章节的状态
+- 🤝 **社区协作** - 欢迎社区贡献，共同完善翻译质量
+- ⚡ **持续更新** - 逐章翻译，持续更新进度
+
 ---
 # 翻译进度
 ### 前置内容
