@@ -157,29 +157,29 @@ This project is a bilingual Chinese-English translation of "Unbound: A Woman's G
 ## 📖 相关阅读 | Related Reading
 
 <table width="100%">
-<tr>
-<td width="33.33%" align="center">
-  <a href="https://book.douban.com/subject/26801207/">
-    <img src="images/历史的慰藉.jpg" alt="历史的慰藉" width="150"/>
-  </a>
-  <br/>
-  <strong><a href="https://book.douban.com/subject/26801207/">历史的慰藉</a></strong>
-  <br/>
-  <small>重拾往昔的生活智慧</small>
-  <br/>
-  <small>作者：[英] 罗曼·柯兹纳里奇</small>
-  <br/>
-  <small>译者：代雪曦</small>
-  <br/>
-  <small>评分：8.9/10</small>
-</td>
-<td width="33.33%" align="center">
-  <!-- 预留位置 -->
-</td>
-<td width="33.33%" align="center">
-  <!-- 预留位置 -->
-</td>
-</tr>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://book.douban.com/subject/26801207/">
+        <img src="images/历史的慰藉.jpg" alt="历史的慰藉" width="150"/>
+      </a>
+      <br/>
+      <strong><a href="https://book.douban.com/subject/26801207/">历史的慰藉</a></strong>
+      <br/>
+      <small>重拾往昔的生活智慧</small>
+      <br/>
+      <small>作者：[英] 罗曼·柯兹纳里奇</small>
+      <br/>
+      <small>译者：代雪曦</small>
+      <br/>
+      <small>评分：8.9/10</small>
+    </td>
+    <td width="33%" align="center">
+      <!-- 预留位置 -->
+    </td>
+    <td width="33%" align="center">
+      <!-- 预留位置 -->
+    </td>
+  </tr>
 </table>
 
 ---
