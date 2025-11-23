@@ -151,3 +151,35 @@ This project is a bilingual Chinese-English translation of "Unbound: A Woman's G
 - **翻译指南**: 查看 [GUIDELINES.md](GUIDELINES.md) 了解翻译规范
 - **术语表**: 查看 [TERMS.md](TERMS.md) 了解术语翻译标准
 - **原书官网**: [The Academy](https://www.kasiaurbaniak.com/)
+
+---
+
+## 📖 相关阅读 | Related Reading
+
+<table>
+<tr>
+<td width="33.33%" align="center">
+  <a href="https://book.douban.com/subject/26801207/">
+    <img src="images/历史的慰藉.jpg" alt="历史的慰藉" width="150"/>
+  </a>
+  <br/>
+  <strong><a href="https://book.douban.com/subject/26801207/">历史的慰藉</a></strong>
+  <br/>
+  <small>重拾往昔的生活智慧</small>
+  <br/>
+  <small>作者：[英] 罗曼·柯兹纳里奇</small>
+  <br/>
+  <small>译者：代雪曦</small>
+  <br/>
+  <small>评分：8.9/10</small>
+</td>
+<td width="33.33%" align="center">
+  <!-- 预留位置 -->
+</td>
+<td width="33.33%" align="center">
+  <!-- 预留位置 -->
+</td>
+</tr>
+</table>
+
+---
