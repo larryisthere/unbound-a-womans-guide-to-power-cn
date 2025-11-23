@@ -156,7 +156,7 @@ This project is a bilingual Chinese-English translation of "Unbound: A Woman's G
 
 ## 📖 相关阅读 | Related Reading
 
-<table>
+<table width="100%">
 <tr>
 <td width="33.33%" align="center">
   <a href="https://book.douban.com/subject/26801207/">
