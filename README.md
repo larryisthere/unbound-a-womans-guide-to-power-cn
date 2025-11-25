@@ -183,3 +183,13 @@ This project is a bilingual Chinese-English translation of "Unbound: A Woman's G
 </table>
 
 ---
+
+## ☕ 支持我们 | Support Us
+
+如果你喜欢我们的工作，可以在这里支持我：
+
+If you enjoy our work, you can support me here:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/larryisthere)
+
+---
