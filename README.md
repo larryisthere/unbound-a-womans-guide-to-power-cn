@@ -158,26 +158,27 @@ This project is a bilingual Chinese-English translation of "Unbound: A Woman's G
 
 <table width="100%">
   <tr>
-    <td width="33%" align="center">
-      <a href="https://book.douban.com/subject/26801207/">
-        <img src="images/历史的慰藉.jpg" alt="历史的慰藉" width="150"/>
-      </a>
+    <td valign="top">
+      <strong>The Little Book of Empowerment</strong>
       <br/>
-      <strong><a href="https://book.douban.com/subject/26801207/">历史的慰藉</a></strong>
       <br/>
-      <small>重拾往昔的生活智慧</small>
-      <br/>
-      <small>作者：[英] 罗曼·柯兹纳里奇</small>
-      <br/>
-      <small>译者：代雪曦</small>
-      <br/>
-      <small>评分：8.9/10</small>
+      <small>一本聚焦"如何在日常中觉察与实践自我赋权"的小书。它强调自信、自尊与行动力，是"从内心开始"的自我成长指南，非常适合与《Unbound》一起读，用以巩固与实践内在力量。</small>
     </td>
-    <td width="33%" align="center">
-      <!-- 预留位置 -->
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>Feminist History for Every Day of the Year</strong>
+      <br/>
+      <br/>
+      <small>通过历史碎片和女性故事，带你了解女性主义的发展脉络与历代女性的斗争。这种历史观能帮助你从制度与社会结构层面理解"权力／赋权"的意义，加深《Unbound》中"个人觉醒"与"集体脉络"的连结。</small>
     </td>
-    <td width="33%" align="center">
-      <!-- 预留位置 -->
+  </tr>
+  <tr>
+    <td valign="top">
+      <strong>Women Of Courage: Persevere, Empower</strong>
+      <br/>
+      <br/>
+      <small>适合在动摇、迷茫或者需要激励的时候读。它讲述真实故事、鼓励坚持与勇气，是对"女性如何在困境中站稳脚跟、坚持自我"的赞歌，也与《Unbound》关于 reclaim 自己声音与欲望的主题相呼应。</small>
     </td>
   </tr>
 </table>
